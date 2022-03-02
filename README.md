@@ -16,7 +16,7 @@ _Two page website with main index page showcasing github projects that list a sh
 
 ## Setup/Installation Requirements
 
-- _Navigate to https://github.com/ellajtanttu/portfolio-oct in your browser_
+- _Navigate to https://github.com/ellajtanttu/epicodus-portfolio in your browser_
 - _Clone this repository to your desktop_
 - _Navigate to the top level of the directory_
 - _Connect to your github repository_
@@ -25,7 +25,7 @@ _Two page website with main index page showcasing github projects that list a sh
 
 ## View Live Website
 
-_https://ellajtanttu.github.io/portfolio-oct/_
+_https://ellajtanttu.github.io/epicodus-portfolio/_
 
 ## Known Bugs
 
